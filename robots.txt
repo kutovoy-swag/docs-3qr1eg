@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-45o1i8.secureverifyonline.com/sitemap.xml
